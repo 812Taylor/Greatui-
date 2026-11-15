@@ -34,11 +34,7 @@ Twelve sections, all decisions, no mood-board prose:
 `0` Brief & non-goals · `1` Personality · `2` Colour tokens · `3` Typography · `4` Material & depth · `5` Motion · `6` The signature · `7` Components & states · `8` Layout · `9` State matrix · `10` Accessibility gates · `11` Anti-patterns · `12` Implementation
 
 
-## Use
 
-> Build a landing page for a satellite company. Dark, precise, expensive. No SaaS purple.
-
-Greatui answers with a five-line brief, then writes `DESIGN.md` into the project. From there your build agent works against that file instead of improvising — and every later page in the same project starts from the same system.
 
 ## What it won't do
 
