@@ -68,4 +68,4 @@ Greatui answers with a five-line brief, then writes `DESIGN.md` into the project
 
 - Invent metrics, clients or testimonials. Placeholders stay placeholders.
 - Build a component library. It defines the states of the components your brief actually needs.
-- Copy a Uiverse look. It takes the mechanics from the corpus, not the glow.
+
