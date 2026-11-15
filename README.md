@@ -27,13 +27,6 @@ You say what you're building — a landing page, a dashboard, a portfolio — an
 - **Portfolio?** It forces one signature and keeps everything else quiet.
 
 
-## What's in the file
-
-Twelve sections, all decisions, no mood-board prose:
-
-`0` Brief & non-goals · `1` Personality · `2` Colour tokens · `3` Typography · `4` Material & depth · `5` Motion · `6` The signature · `7` Components & states · `8` Layout · `9` State matrix · `10` Accessibility gates · `11` Anti-patterns · `12` Implementation
-
-
 
 
 ## What it won't do
