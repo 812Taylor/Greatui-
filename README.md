@@ -47,16 +47,6 @@ Twelve sections, all decisions, no mood-board prose:
 
 `0` Brief & non-goals · `1` Personality · `2` Colour tokens · `3` Typography · `4` Material & depth · `5` Motion · `6` The signature · `7` Components & states · `8` Layout · `9` State matrix · `10` Accessibility gates · `11` Anti-patterns · `12` Implementation
 
-## Install
-
-Greatui is a skill, not a package: one folder with a `SKILL.md` (frontmatter + instructions). No build step, no dependencies.
-
-```bash
-# Claude Code and other agents that read Agent Skills
-cp -r greatui ~/.claude/skills/greatui
-```
-
-If your agent loads skills from the project instead, drop the folder into `.claude/skills/` next to the code. It needs an agent that can read and write files and ask questions.
 
 ## Use
 
