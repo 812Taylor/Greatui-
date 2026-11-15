@@ -26,20 +26,6 @@ You say what you're building — a landing page, a dashboard, a portfolio — an
 - **Dashboard?** It defines states, density and one accent that means "current", not five colours that mean nothing.
 - **Portfolio?** It forces one signature and keeps everything else quiet.
 
-## How it works
-
-1. **Brief or questionnaire.** One sentence is enough. If you'd rather answer, you get seven clickable questions — one per axis, never a wall of text.
-2. **Five decisions, in order.** Each one narrows the next, so the result can't end up as five unrelated good ideas.
-
-   | Axis | Decides | Example |
-   |---|---|---|
-   | Feeling | temperament, motion intensity | calm and precise, 2/10 |
-   | Material | depth, radii, shadows | flat and framed, 8 / 12 / 16 px |
-   | Colour | neutral ramp + exactly one accent | off-black + lime |
-   | Motion | duration, curve, stagger | 200 ms hover, 500 ms panel |
-   | Signature | the one mechanic people remember | "every confirmation is drawn" |
-
-3. **A `DESIGN.md` your agent can't misread.** Colour tokens with measured contrast, a type ladder, component states, a motion table, accessibility gates, and one signature that has to survive a greyscale and a reduced-motion test.
 
 ## What's in the file
 
